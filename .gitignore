@@ -18,6 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
+###Sistema operativo###
+.DS_Store
+Thumbs.db
 
 ### NetBeans ###
 /nbproject/private/
