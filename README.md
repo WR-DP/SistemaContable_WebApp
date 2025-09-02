@@ -1,7 +1,7 @@
 # SistemaContable_WebApp
 Sistema contable con clasificación automática 
 
-#Descripción
+# Descripción
 
 Este proyecto consiste en un sistema contable que permite:
 - Cargar datos contables desde archivos Excel
@@ -12,15 +12,15 @@ Este proyecto consiste en un sistema contable que permite:
 - Exportar resultados en Excel y HTML
 - Ejecutarse en contenedores Docker
 
-  ###Backend
+  ### Backend
   - Java 21
   - Spring Boot 3.5.5
   - PostgreSQL
   - Apache POI
   - OpenAI API
  
-  ###Frontend
-  -Quasar Framework (Vue.js)
-  -JavaScript
+  ### Frontend
+  - Quasar Framework (Vue.js)
+  - JavaScript
 
   
